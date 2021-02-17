@@ -11,8 +11,6 @@ namespace CSHARP_Variables_Exo3
             Console.WriteLine("Utilisateur numéro 751 203C, veuillez renseigner votre prénom:");
             string firstname = Console.ReadLine();
 
-            //Console.WriteLine("vous vous appelez" + firstname);
-
             Console.WriteLine("Utilisateur 751 203C. Veuillez maintenant renseigner votre nom de famille:");
             string lastname = Console.ReadLine();
 
